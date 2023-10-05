@@ -1,1 +1,2 @@
-# cse326_project_draft
+# project_cse326
+Project 1 by Akash, Utkarsh and Akash
